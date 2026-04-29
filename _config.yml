@@ -34,7 +34,7 @@ author: Frances Jane Sleger
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: stumplandmetadata
+metadata: https://docs.google.com/spreadsheets/d/e/2PACX-1vSlz6xlaZEMlXUmyln1BNlzgGBsHnpGQe4IKvfVpbkF4FbzELHzS2pDfR2qM0s89aCK0o7NYkeNRO2d/pub?output=csv
 
 ##########
 # Site/Organization Branding 
