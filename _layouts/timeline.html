@@ -1,1 +1,0 @@
-{%- if field -%}{%- assign items = items | where_exp: 'item','item[field]' | sort: field -{%- else -%}{%- assign items = items | where_exp: 'item','item[field]' -{%- endif -%}
