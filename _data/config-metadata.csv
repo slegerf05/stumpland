@@ -4,12 +4,20 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+state,State,
+county,County
+city,City
 location,Location
 latitude,Latitude
 longitude,Longitude
+physical_description,Physical Description,
+original_collection,Original Collection
+temporal_coverage,Temporal Coverage
 source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
-rights,Rights,
+file_size,File Size,
+resolution,Resolution
+rightsholder,Rights Holder,
 rightsstatement,Rights Statement,,true
